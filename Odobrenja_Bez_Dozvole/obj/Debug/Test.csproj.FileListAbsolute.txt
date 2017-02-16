@@ -1,0 +1,14 @@
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.pdb

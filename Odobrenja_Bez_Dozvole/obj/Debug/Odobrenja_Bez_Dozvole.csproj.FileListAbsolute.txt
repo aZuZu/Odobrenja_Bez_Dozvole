@@ -1,0 +1,16 @@
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\bin\Debug\Odobrenja_Bez_Dozvole.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\bin\Debug\Odobrenja_Bez_Dozvole.pdb
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.LogIn.resources
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.MainForm.resources
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.csproj.GenerateResource.Cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\bin\Debug\Odobrenja_Bez_Dozvole.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\bin\Debug\Odobrenja_Bez_Dozvole.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.LogIn.resources
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.MainForm.resources
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.csproj.GenerateResource.Cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.csprojResolveAssemblyReference.cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\Odobrenja_Bez_Dozvole\Odobrenja_Bez_Dozvole\obj\Debug\Odobrenja_Bez_Dozvole.csprojResolveAssemblyReference.cache
